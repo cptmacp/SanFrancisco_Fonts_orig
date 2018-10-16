@@ -7,7 +7,6 @@ SanFrancisco Fonts by Apple Inc.
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://devloper.apple.com/fonts)
 
- 
 
 # Source:-
 
@@ -30,12 +29,21 @@ SanFrancisco Fonts by Apple Inc.
 - Might get an issue if using Lockscreen mods , make sure to use default fonts .
 
 ## Todos
-
- - wip
+ - [x] Update to ios12 fonts 
+ - [ ] iOS 12 emoji's
+ - [ ] 
 
 ## Files Used for the module
 
 * [Doc's](https://docs.google.com/document/d/1i6nyG_bBUs0ioulBXsxZZsgilf33qBxDPjroxsTLeMo/edit) - Document File , table.
+
+## Screenshots 
+
+- [img1](https://i.imgur.com/saiLhd5.jpg)
+- [img2](https://i.imgur.com/jrfdPLz.png)
+- [img3](https://i.imgur.com/P72VotQ.png)
+- [img4](https://i.imgur.com/ZQuEqnp.png)
+- [img5](https://i.imgur.com/rjSxp6z.png)
 
 ## Feedback & Support
 - Visit the Official XDA thread (link below) and provide the current device, ROM and OS version you are on if you need assistance.
