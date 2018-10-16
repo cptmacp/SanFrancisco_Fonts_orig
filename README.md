@@ -31,7 +31,7 @@ SanFrancisco Fonts by Apple Inc.
 ## Todos
  - [x] Update to ios12 fonts 
  - [ ] iOS 12 emoji's
- - [ ] 
+ - [ ] .
 
 ## Files Used for the module
 
