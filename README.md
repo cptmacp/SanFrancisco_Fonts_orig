@@ -31,9 +31,7 @@ SanFrancisco Fonts by Apple Inc.
 
 ## Todos
 
- - Write MORE Tests
- - Add Night Mode
-
+ - wip
 
 ## Files Used for the module
 
