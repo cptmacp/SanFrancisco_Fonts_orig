@@ -1,0 +1,7 @@
+id=iOSFonts
+name=SanFrancisco Fonts w/ Emoji by Apple
+version=v2.0
+versionCode=1
+author=cpt.macp
+description=Installs SF-Pro fonts + Emoji systemlessly
+minMagisk=17000
