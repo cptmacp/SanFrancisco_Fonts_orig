@@ -1,4 +1,4 @@
-# SanFrancisco_Fonts
+# SanFrancisco_Fonts(without Emoji)
 [![N|Solid](https://img.xda-cdn.com/3CfRzT75ECZeIBXHGEPJ7cIQjso=/https%3A%2F%2Fdeveloper.apple.com%2Ffonts%2Fimages%2Ffont-hero_2x.png)](https://developer.apple.com/fonts/)
 
 SanFrancisco Fonts by Apple Inc.
