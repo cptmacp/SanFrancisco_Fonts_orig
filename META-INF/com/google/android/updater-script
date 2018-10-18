@@ -1,6 +1,7 @@
 ui_print("*************************************");
 ui_print("****.Apple's San Francisco Fonts .***");
-ui_print("****************v2.0*****************");
+ui_print("**************w/ Emoji***************");
+ui_print("****************v2.5*****************");
 ui_print("***********.By cpt.macp.*************");
 ui_print("*************************************");
 mount("ext4", "EMMC", "/dev/block/bootdevice/by-name/system", "/system");
