@@ -23,7 +23,7 @@ SanFrancisco Fonts by Apple Inc.
 
 ## Compatibilities :-
 - Wont work with existing fonts , try to use on stock or untouched /system
-- Wont work with existing magisk font module ( uninstall it ) .
+- Wont work with existing font (Restore stock first) .
 - Might get an issue if using Lockscreen mods , make sure to use default fonts .
 
 
@@ -33,7 +33,7 @@ SanFrancisco Fonts by Apple Inc.
  - [ ] fix utf11 glyphs for pie 
 
 
-## Files Used for the module
+## Files Used for the zip
 * [Doc's](https://docs.google.com/document/d/1i6nyG_bBUs0ioulBXsxZZsgilf33qBxDPjroxsTLeMo/edit) - Document File , table.
 
 
