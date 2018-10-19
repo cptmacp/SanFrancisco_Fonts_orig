@@ -41,8 +41,7 @@ LATESTARTSERVICE=false
 
 print_modname() {
   ui_print "*******************************"
-  ui_print "        SF-Pro Fonts           "
-  ui_print "          w/ Emoji             "
+  ui_print "    SF-Pro Fonts w/  emoji     "
   ui_print "            v2.5               "
   ui_print "   By cpt.macp (magisk v17+)   "
   ui_print "*******************************"
