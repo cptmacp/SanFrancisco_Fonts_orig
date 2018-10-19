@@ -1,0 +1,37 @@
+# Changelog
+All notable changes to this project will be documented in this file.
+
+
+## [Released]
+
+
+## [2.5.0] - 2018-10-16
+- Moved Project to GitHub
+- Updated Fonts from iOS12.1 beta 4 IPSW
+- Updated emoji
+- fixed font.xml (weights,font-family)
+- included ProductSans (extra ,since it is also being used)
+
+
+
+## [2.0.0] - 2018-05-25
+- Added SF condensed and SFUI display fonts. 
+- Removed all SF** text fonts ( were taking a lot of space) also it cant be used unlesswe make the keyboard 
+  use those fonts, they were originally designed for keyboard texts and not the app display text  .
+- Updated emoji from iOS 11.2 Beta
+- Updated all fonts from iOS 12 beta IPSW system dump / Dev site
+
+
+
+## [1.5.0] - 2018-05-14
+- Updated for android Pie
+- Updated magisk template 
+- Updated to v1.5
+
+
+
+
+
+
+
+
